@@ -1,0 +1,14 @@
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\bin\Debug\net10.0\ExemploPOO.exe
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\bin\Debug\net10.0\ExemploPOO.deps.json
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\bin\Debug\net10.0\ExemploPOO.runtimeconfig.json
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\bin\Debug\net10.0\ExemploPOO.dll
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\bin\Debug\net10.0\ExemploPOO.pdb
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.AssemblyInfoInputs.cache
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.AssemblyInfo.cs
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.dll
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\refint\ExemploPOO.dll
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.pdb
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.genruntimeconfig.cache
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ref\ExemploPOO.dll
