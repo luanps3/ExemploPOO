@@ -12,3 +12,4 @@ C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debu
 C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.pdb
 C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.genruntimeconfig.cache
 C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ref\ExemploPOO.dll
+C:\Users\luan.coesposito\OneDrive - sp.senac.br\Materiais\C#\ExemploPOO\obj\Debug\net10.0\ExemploPOO.sourcelink.json

@@ -1,25 +1,31 @@
-﻿// Criei um objeto
-Carro carro1 = new();
-Carro carro2 = new();
+﻿// // Criei um objeto
+// Carro carro1 = new();
+// Carro carro2 = new();
 
-//Atribuindo um valor para uma propriedade do objeto
-carro1.Marca = "BMW";
-carro1.Modelo = "X1";
-carro1.Ano = 2025;
-carro1.Cor = "Marrom";
-carro1.Ligar();
-carro1.Desligar();
+// //Atribuindo um valor para uma propriedade do objeto
+// carro1.Marca = "BMW";
+// carro1.Modelo = "X1";
+// carro1.Ano = 2025;
+// carro1.Cor = "Marrom";
+// carro1.Ligar();
+// carro1.Desligar();
 
-//Atribuindo um valor para uma propriedade do objeto
-carro2.Marca = "Fiat";
-carro2.Modelo = "Toro";
-carro2.Ano = 1999;
-carro2.Cor = "Vermelho";
-carro2.Ligar();
-carro2.Desligar();
+// //Atribuindo um valor para uma propriedade do objeto
+// carro2.Marca = "Fiat";
+// carro2.Modelo = "Toro";
+// carro2.Ano = 1999;
+// carro2.Cor = "Vermelho";
+// carro2.Ligar();
+// carro2.Desligar();
 
-carro1.ExibirInformacoes();
-carro2.ExibirInformacoes();
+// carro1.ExibirInformacoes();
+// carro2.ExibirInformacoes();
 
+//Execução do encapsulamento
+ContaBancaria contaBancaria = new();
+contaBancaria.Depositar(5574.50);
+Console.WriteLine($"Saldo atual: {contaBancaria.ConsultarSaldo().ToString("C2")}");
+contaBancaria.Sacar(574.50);
+Console.WriteLine($"Saldo atual: {contaBancaria.ConsultarSaldo().ToString("C2")}");
 
-
+Funcionario funcionario = new ();
