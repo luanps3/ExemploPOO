@@ -1,4 +1,4 @@
-public class Funcionario
+public class Funcionario:Pessoa
 {
     public string Cargo { get; set; }
     public double Salario { get; set; }

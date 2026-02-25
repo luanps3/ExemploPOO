@@ -28,4 +28,6 @@ Console.WriteLine($"Saldo atual: {contaBancaria.ConsultarSaldo().ToString("C2")}
 contaBancaria.Sacar(574.50);
 Console.WriteLine($"Saldo atual: {contaBancaria.ConsultarSaldo().ToString("C2")}");
 
-Funcionario funcionario = new ();
+Funcionario funcionario = new();
+funcionario.Nome = "Luan";
+Console.WriteLine(funcionario.Nome);
